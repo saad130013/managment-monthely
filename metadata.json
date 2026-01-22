@@ -1,0 +1,5 @@
+{
+  "name": "CoV5-2025 Workforce Manning Auditor",
+  "description": "High-precision Excel auditor that reconciles monthly summary 'Actual on Site' targets with detailed employee rosters (Table 1 vs Tables 2-n).",
+  "requestFramePermissions": []
+}
